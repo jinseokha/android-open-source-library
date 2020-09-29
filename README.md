@@ -8,12 +8,12 @@ PR 및 Star 환영합니다.
 
 (a - z order)
 
-- [Animation](pages/Animation.md)
-- [Audio_Video](pages/Audio_Video.md)
-- [Button](pages/Button.md)
+- [Animation](pages/Animation.md) (완)
+- [Audio_Video](pages/Audio_Video.md) (완)
+- [Button](pages/Button.md) (완)
 - [Custom](pages/Custom.md)
 - [Chart](pages/Chart.md)
-- [Dialog](pages/Dialog.md)
+- [Dialog](pages/Dialog.md) (완)
 - [Effect](pages/Effect.md)
 - [Framework](pages/Framework.md)
 - [Gradle](pages/Gradle.md)
