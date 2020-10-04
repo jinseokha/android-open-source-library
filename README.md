@@ -22,7 +22,7 @@ PR 및 Star 환영합니다.
 - [Interview](pages/Interview.md)
 - :fire:[Jetpack_Compose](pages/Jetpack_Compose.md)
 - :fire:[Kotlin](pages/Kotlin.md)
-- [List](pages/List.md)
+- [List](pages/List.md) (완)
 - [Layout](pages/Layout.md)
 - [Label](pages/Label.md)
 - [Menu](pages/Menu.md) (완)
