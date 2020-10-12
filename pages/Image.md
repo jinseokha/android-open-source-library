@@ -590,3 +590,473 @@ http://zhengxiaoyong.me/2017/04/23/Android%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%E
 
 ---
 
+[**cookie-cutter**](https://github.com/adamstyrc/cookie-cutter)
+
+<img src = "https://raw.githubusercontent.com/adamstyrc/cookie-cutter/master/video.gif" width = "320"/>
+
+---
+
+[**ImagePicker**](https://github.com/jeasonlzy0216/ImagePicker)
+
+<img src = "https://raw.githubusercontent.com/jeasonlzy/Screenshots/master/ImagePicker/demo1.png" width = "270"/> <img src = "https://raw.githubusercontent.com/jeasonlzy/Screenshots/master/ImagePicker/demo3.png" width = "270"/>
+
+---
+
+[**ImageZipper**](https://github.com/amanjeetsingh150/ImageZipper)
+
+<img src="https://user-images.githubusercontent.com/12881364/28280492-83ac5b2a-6b41-11e7-9394-48ad8e8e44f1.jpg" width = "320"/>
+
+---
+
+[**CompressHelper**](https://github.com/nanchen2251/CompressHelper)
+
+<img src="https://raw.githubusercontent.com/nanchen2251/CompressHelper/master/111.png" width = "320"/>
+
+---
+
+[**AdvancedLuban**](https://github.com/shaohui10086/AdvancedLuban)
+
+---
+
+[**Luban**](https://github.com/Curzibn/Luban)
+
+---
+
+[**zBarLibary**](https://github.com/bertsir/zBarLibary)
+
+<img src="https://camo.githubusercontent.com/9eec49996c71fef00e117356beb8ee91bc2ed7c8/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333032393032302d623030343430373562323162326637632e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f333633" width="320" /> <img src="https://camo.githubusercontent.com/d6372d677c6dae51ae7d8228b797223e0ff2a35f/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333032393032302d633763373962366166346461363936302e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f333630" width="320" />
+
+---
+
+[**MVBarcodeReader**](https://github.com/iamMehedi/MVBarcodeReader)
+
+---
+
+[**zxing-android-embedded**](https://github.com/journeyapps/zxing-android-embedded)
+
+---
+
+[**AwesomeQRCode**](https://github.com/SumiMakito/AwesomeQRCode)
+
+<img src="https://github.com/SumiMakito/AwesomeQRCode/raw/master/art/awesome-qr-4.png" width="320" />
+
+---
+
+[**PressScanCode**](https://github.com/BolexLiu/PressScanCode)
+
+<img src="https://raw.githubusercontent.com/BolexLiu/PressScanCode/master/tips.gif" width="240" />
+
+---
+
+[**ZXingDemo**](https://github.com/vivian8725118/ZXingDemo)
+
+<img src="https://raw.githubusercontent.com/vivian8725118/ZXingDemo/master/art/S61128-17080029.jpg" width="320" />
+
+---
+
+[**MobileVisionBarcodeScanner**](https://github.com/KingsMentor/MobileVisionBarcodeScanner)
+
+<img src="https://github.com/KingsMentor/MobileVisionBarcodeScanner/raw/master/lib_example.gif" width="640" />
+
+---
+
+[**Android-Zxing**](https://github.com/mylhyl/Android-Zxing)
+
+<img src="https://raw.githubusercontent.com/mylhyl/Android-Zxing/master/preview/gif.gif" width="270" />
+
+---
+
+[**Qart**](https://github.com/scola/Qart)
+
+<img src="https://camo.githubusercontent.com/b3484d2714d126883be6a4a1ec69ba8f1ed402a3/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f613135623461666567773166376a6c766f746468776a32306b66306b6664676d2e6a7067" width="320" />
+
+---
+
+[**android-zxingLibrary**](https://github.com/yipianfengye/android-zxingLibrary)
+
+<img src="https://raw.githubusercontent.com/yipianfengye/android-zxingLibrary/master/images/ezgif.com-video-to-gif%20(2)%2015.33.08.gif" width="320" /> <img src="https://raw.githubusercontent.com/yipianfengye/android-zxingLibrary/master/images/ezgif.com-video-to-gif%20(5).gif" width="320" />
+
+---
+
+[**BGAQRCode-Android**](https://github.com/bingoogolapple/BGAQRCode-Android)
+
+<img src="https://camo.githubusercontent.com/9925f6660c608bc6b25bbeb623d0184d5dca6968/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f7a78696e673130362e676966" width="320" /> <img src="https://camo.githubusercontent.com/592a5ae13ae4c01c298b68d27f179a23843d398a/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f7a78696e673130332e676966" width="320" />
+
+---
+
+[**zxing-barcode**](https://github.com/ThePacific/zxing-barcode)
+
+<img src="https://github.com/ThePacific/Zxing-Barcode/blob/master/gif/example.gif" width="320" />
+
+---
+
+[**QrCardParsing**](https://github.com/RurioLuca/QrCardParsing)
+
+<img src = "https://raw.githubusercontent.com/RurioLuca/MeCardParsing/master/img/screen.png" width = "320"/>
+
+---
+
+[**QRGenerator**](https://github.com/androidmads/QRGenerator)
+
+---
+
+[**AutoZoomInImageView**](https://github.com/Carbs0126/AutoZoomInImageView)
+
+<img src = "https://raw.githubusercontent.com/Carbs0126/Screenshot/master/AutoZoomInImageView.gif" width = "270"/>
+
+---
+
+[**AndroidGradientImageView**](https://github.com/skyfe79/AndroidGradientImageView)
+
+<img src = "https://raw.githubusercontent.com/skyfe79/AndroidGradientImageView/master/art/gradient-animation.gif" width = "270"/>
+
+---
+
+[**QiniuImageLoader**](https://github.com/lingochamp/QiniuImageLoader)
+
+<img src = "https://raw.githubusercontent.com/lingochamp/QiniuImageLoader/master/art/demo_1.jpg" width = "320"/> <img src = "https://raw.githubusercontent.com/lingochamp/QiniuImageLoader/master/art/demo_2.jpg" width = "320"/>
+
+---
+
+[**CainCamera**](https://github.com/CainKernel/CainCamera)
+
+<img src="https://github.com/CainKernel/CainCamera/blob/master/screenshot/sticker_and_filter.jpg" width="480" />
+
+---
+
+[**CameraFilters**](https://github.com/JessYanCoding/CameraFilters)
+
+---
+
+[**CameraFilter**](https://github.com/nekocode/CameraFilter)
+
+---
+
+[**CameraFilter**](https://github.com/WeLikeVis/CameraFilter)
+
+---
+
+[**AndroidPhotoFilters**](https://github.com/Zomato/AndroidPhotoFilters)
+
+<img src="https://raw.githubusercontent.com/Zomato/AndroidPhotoFilters/master/art/photofilters.gif" width="320" />
+
+---
+
+[**photofilter**](https://github.com/mukeshsolanki/photofilter)
+
+<img src = "https://raw.githubusercontent.com/mukeshsolanki/photofilter/master/screenshots/Car-applyShadingFilter1.png" width = "320"/> <img src = "https://raw.githubusercontent.com/mukeshsolanki/photofilter/master/screenshots/Car-boost2.png" width = "320"/>
+
+---
+
+[**gallery**](https://github.com/kenvies/gallery)
+
+<img src = "https://github.com/wqandroid/wqgallery/raw/dev/app/screenshort/wqgallert.gif" width = "300"/>
+
+---
+
+[**ImageGroupView**](https://github.com/loopeer/ImageGroupView)
+
+<img src = "https://raw.githubusercontent.com/loopeer/ImageGroupView/master/screenshot/screenshot.gif" width = "300"/> <img src = "https://raw.githubusercontent.com/loopeer/ImageGroupView/master/screenshot/screenshot_select_photo.gif" width = "300"/>
+
+---
+
+[**Compressor**](https://github.com/zetbaitsu/Compressor)
+
+<img src = "https://raw.githubusercontent.com/zetbaitsu/Compressor/master/ss.png" width = "320"/>
+
+---
+
+[**GifLoadingView**](https://github.com/Rogero0o/GifLoadingView)
+
+GifLoadingViewhttps://amitshekhariitbhu.github.io/GlideBitmapPool/
+
+<img src="https://camo.githubusercontent.com/5d60273b50200d40dd0fb3d6e7e2f2283651630d/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f61363935616364656777316633646579737274346767323034733034783137722e676966" width="160" /> <img src="https://camo.githubusercontent.com/b754e4dd02b606757a3e00242a00f81ca1c79a97/687474703a2f2f7777322e73696e61696d672e636e2f736d616c6c2f613639356163646567773166336465797662707761673230347330347831306a2e676966" width="160" /> <img src="https://camo.githubusercontent.com/de425dc93de5058c2af83756091c40b53fea9132/687474703a2f2f7777332e73696e61696d672e636e2f736d616c6c2f61363935616364656777316633646579777162323967323034733034786a737a2e676966" width="160" /> <img src="https://camo.githubusercontent.com/c67e8c65bcdbdae5a0cb8598d4869b971f6fee0d/687474703a2f2f7777342e73696e61696d672e636e2f736d616c6c2f6136393561636465677731663364657a323037717567323034733034786e61642e676966" width="160" />
+
+---
+
+[**GlideSlider**](https://github.com/firdausmaulan/GlideSlider)
+
+<img src="https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966" width="320"/>
+
+---
+
+[**glide-bindingadapter**](https://github.com/s0nerik/glide-bindingadapter)
+
+---
+
+[**GlideBitmapPool**](https://github.com/amitshekhariitbhu/GlideBitmapPool)
+
+---
+
+[**android-drag-square**](https://github.com/SwiftyWang/android-drag-square)
+
+<img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture1.gif" width="270" /> <img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture2.gif" width="270" /> <img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture3.gif" width="270" />
+
+---
+
+[**android-drag-square**](https://github.com/xmuSistone/android-drag-square)
+
+<img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture1.gif" width="270" /> <img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture2.gif" width="270" /> <img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture3.gif" width="270" />
+
+---
+
+[**ShapedImageView**](https://github.com/gavinliu/ShapedImageView)
+
+<img src="https://raw.githubusercontent.com/gavinliu/ShapedImageView/master/screenshots1.png" width="320" /> <img src="https://raw.githubusercontent.com/gavinliu/ShapedImageView/master/screenshots2.png" width="320" />
+
+---
+
+[**CircleImageView**](https://github.com/zuoweitan/CircleImageView)
+
+<img src="https://raw.githubusercontent.com/zuoweitan/CircleImageView/master/screen_shot.png" width="320" />
+
+---
+
+[**AvatarImageView**](https://github.com/Carbs0126/AvatarImageView)
+
+<img src="https://raw.githubusercontent.com/Carbs0126/Screenshot/master/avatar_image_view3.jpg" width="300" /> <img src="https://raw.githubusercontent.com/Carbs0126/Screenshot/master/avatar_image_view1.jpg" width="300" />
+
+---
+
+[**android-shape-imageview**](https://github.com/siyamed/android-shape-imageview)
+
+<img src="https://raw.githubusercontent.com/siyamed/android-shape-imageview/master/images/shader-buble.png" width="320" /> <img src="https://raw.githubusercontent.com/siyamed/android-shape-imageview/master/images/all-samples.png" width="320" />
+
+---
+
+[**CustomShapeImageView**](https://github.com/MostafaGazar/CustomShapeImageView)
+
+<img src="https://raw.githubusercontent.com/MostafaGazar/CustomShapeImageView/master/Screenshot_2016-01-19-09-17-37.png" width="320" />
+
+---
+
+[**belvedere**](https://github.com/zendesk/belvedere)
+
+---
+
+[**hiddenshot**](https://github.com/karanvs/hiddenshot)
+
+---
+
+[**InstaCapture**](https://github.com/tarek360/InstaCapture)
+
+---
+
+[**MagicalCamera**](https://github.com/fabian7593/MagicalCamera)
+
+<img src="https://raw.githubusercontent.com/fabian7593/MagicalCamera/master/magicalcamera.gif" width="270" />
+
+---
+
+[**android-gif-drawable**](https://github.com/koral--/android-gif-drawable)
+
+---
+
+[**recent-images**](https://github.com/amirarcane/recent-images)
+
+<img src="https://raw.githubusercontent.com/amirarcane/recent-images/master/demo/Screenshot_2015-10-31-15-40-49.png" width="320" />
+
+---
+
+[**LowPoly**](https://github.com/CoXier/LowPoly)
+
+<img src="https://raw.githubusercontent.com/CoXier/LowPoly/master/art/captain.jpg" width="640" />
+
+---
+
+[**LowPoly**](https://github.com/zzhoujay/LowPoly)
+
+<img src="https://raw.githubusercontent.com/zzhoujay/LowPoly/master/img/image.png" width="640" />
+
+---
+
+[**LowPolyAndroid**](https://github.com/zzhoujay/LowPolyAndroid)
+
+<img src="https://raw.githubusercontent.com/zzhoujay/LowPoly/master/img/image.png" width="640" />
+
+---
+
+[**ScratchView**](https://github.com/cooltechworks/ScratchView)
+
+<img src="https://raw.githubusercontent.com/cooltechworks/ScratchView/2ec97c9a539d5976b68bf62ec07df8c727d72be2/screenshots/scratch_image_view_demo.gif" width="320" /> <img src="https://raw.githubusercontent.com/cooltechworks/ScratchView/master/screenshots/scratch_text_view_demo.gif" width="320" />
+
+---
+
+[**android-ndk-gif**](https://github.com/waynejo/android-ndk-gif)
+
+---
+
+[**sharp**](https://github.com/Pixplicity/sharp)
+
+<img src="https://raw.githubusercontent.com/Pixplicity/sharp/master/sample-imageview/screenshots/cartman1.png" width="320" /> <img src="https://raw.githubusercontent.com/Pixplicity/sharp/master/sample-imageview/screenshots/cartman2.png" width="320" />
+
+---
+
+[**Image-Zoomer**](https://github.com/code-crusher/Image-Zoomer)
+
+<img src="https://raw.githubusercontent.com/code-crusher/Image-Zoomer/master/screenshots/zoom.gif" width="320" /> <img src="https://raw.githubusercontent.com/code-crusher/Image-Zoomer/master/screenshots/zoomReverse.gif" width="320" />
+
+---
+
+[**image-zoom**](https://github.com/oliveiradev/image-zoom)
+
+<img src="https://github.com/oliveiradev/image-zoom/blob/master/art/12ynog.gif" width="320" />
+
+---
+
+[**TouchImageView**](https://github.com/MikeOrtiz/TouchImageView)
+
+---
+
+[**avatar-view**](https://github.com/TangoAgency/avatar-view)
+
+<img src="https://raw.githubusercontent.com/TangoAgency/avatar-view/master/images/example1.gif" width="320" /> <img src="https://raw.githubusercontent.com/TangoAgency/avatar-view/master/images/example2.gif" width="320" />
+
+---
+
+[**CircleImageView**](https://github.com/hdodenhof/CircleImageView)
+
+<img src="https://camo.githubusercontent.com/e17a2a83e3e205a822d27172cb3736d4f441344d/68747470733a2f2f7261772e6769746875622e636f6d2f68646f64656e686f662f436972636c65496d616765566965772f6d61737465722f73637265656e73686f742e706e67" width="320" />
+
+---
+
+[**KenBurnsView**](https://github.com/flavioarfaria/KenBurnsView)
+
+<img src="https://github.com/flavioarfaria/KenBurnsView/raw/master/anim.gif" width="320" />
+
+---
+
+[**GifImageView**](https://github.com/felipecsl/GifImageView)
+
+<img src="https://raw.githubusercontent.com/felipecsl/GifImageView/master/demo.gif" width="320" />
+
+---
+
+[**Android-Image-Cropper**](https://github.com/ArthurHub/Android-Image-Cropper)
+
+<img src="https://github.com/ArthurHub/Android-Image-Cropper/blob/master/art/zoom%20sample.gif?raw=true" width="320" />
+
+---
+
+[**cropper**](https://github.com/edmodo/cropper)
+
+<img src="https://camo.githubusercontent.com/e4fde77bf41d4a60b234b4e268e5cfa8c17d9b6f/687474703a2f2f692e696d6775722e636f6d2f334668735467666c2e6a7067" width="320" />
+
+---
+
+[**android-crop**](https://github.com/jdamcd/android-crop)
+
+<img src="https://github.com/jdamcd/android-crop/blob/master/screenshot.png" width="320" />
+
+---
+
+[**Android-PictureTagView**](https://github.com/saiwu-bigkoo/Android-PictureTagView)
+
+<img src="https://github.com/saiwu-bigkoo/PictureTagView/blob/master/preview/picturetagviewdemo.gif" width="320" />
+
+---
+
+[**SelectableRoundedImageView**](https://github.com/pungrue26/SelectableRoundedImageView)
+
+<img src="https://camo.githubusercontent.com/d359ae58a72bc330df60758703185777a15bd1a0/687474703a2f2f692e696d6775722e636f6d2f6953697a4838322e706e67" width="320" />
+<img src="https://camo.githubusercontent.com/d359ae58a72bc330df60758703185777a15bd1a0/687474703a2f2f692e696d6775722e636f6d2f6953697a4838322e706e67" width="320" />
+
+---
+
+[**RoundedImageView**](https://github.com/vinc3m1/RoundedImageView)
+
+<img src="https://camo.githubusercontent.com/ed1e075be6ed97fa9091d3702e9b96d3e85b7a35/68747470733a2f2f7261772e6769746875622e636f6d2f6d616b6572616d656e2f526f756e646564496d616765566965772f6d61737465722f73637265656e73686f742e706e67" width="320" />
+<img src="https://camo.githubusercontent.com/d4970a90842c50a708f94b7bd996657c41ab62fb/68747470733a2f2f7261772e6769746875622e636f6d2f6d616b6572616d656e2f526f756e646564496d616765566965772f6d61737465722f73637265656e73686f742d6f76616c2e706e67" width="320" />
+
+---
+
+[**CropImageView**](https://github.com/cesards/CropImageView)
+
+<img src="https://github.com/cesards/CropImageView/blob/master/art/cropping.png" width="320" />
+
+<img src="https://github.com/cesards/CropImageView/blob/master/art/slide_menu_left.jpg" width="320" />
+<img src="https://github.com/cesards/CropImageView/blob/master/art/slide_menu_right.jpg" width="320" />
+
+---
+
+[**BitmapMerger**](https://github.com/cooltechworks/BitmapMerger)
+
+<img src="https://cloud.githubusercontent.com/assets/13122232/8438305/9f7c2644-1f82-11e5-8f51-25ba7cca0711.gif" width="160" />
+<img src="https://cloud.githubusercontent.com/assets/13122232/8438306/9f83ee9c-1f82-11e5-8734-954a13f1b2f2.gif" width="160" />
+<img src="https://cloud.githubusercontent.com/assets/13122232/8438307/9f8d7c78-1f82-11e5-8d77-7fb9f31dfd6f.gif" width="160" />
+
+---
+
+[**wqgallery**](https://github.com/wqandroid/wqgallery)
+
+<img src="https://github.com/wqandroid/wqgallery/raw/dev/app/screenshort/wqgallert.gif" width="320" />
+
+---
+
+[**Android-Ultra-Photo-Selector**](https://github.com/AizazAZ/Android-Ultra-Photo-Selector)
+
+<img src="https://github.com/AizazAZ/Android-Ultra-Photo-Selector/blob/master/media/image1.png" width="320" />
+<img src="https://github.com/AizazAZ/Android-Ultra-Photo-Selector/blob/master/media/image2.png" width="320" />
+
+---
+
+[**DrawableView**](https://github.com/PaNaVTEC/DrawableView)
+
+<img src="https://github.com/PaNaVTEC/DrawableView/blob/master/art/DrawableView.gif" width="320" />
+
+--- 
+
+[**AndroidScrollingImageView**](https://github.com/Q42/AndroidScrollingImageView)
+
+<img src="https://raw.githubusercontent.com/Q42/AndroidScrollingImageView/master/preview.gif" width="320" />
+<img src="https://raw.githubusercontent.com/Q42/AndroidScrollingImageView/master/sample_app.png" width="320" />
+
+---
+
+[**Pixelate**](https://github.com/DanielMartinus/Pixelate)
+
+<img src="https://github.com/DanielMartinus/Pixelate/blob/master/images/pixelate_illustration.png" width="640" />
+
+---
+
+[**SimpleCropView**](https://github.com/IsseiAoki/SimpleCropView)
+
+<img src="https://camo.githubusercontent.com/7ef872746a0181356ea0b44d94b7bd939f28c5ae/68747470733a2f2f7261772e6769746875622e636f6d2f77696b692f4973736569416f6b692f53696d706c6543726f70566965772f696d616765732f6769662f64656d6f5f62617369635f75736167652e676966" width="320" />
+
+---
+
+[**MultiImageSelector**](https://github.com/lovetuzitong/MultiImageSelector)
+
+<img src="https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/example_1.png" width="200" />
+<img src="https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_1.png" width="200" />
+<img src="https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_2.png" width="200" />
+<img src="https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_3.png" width="200" />
+
+---
+
+[**EasyImage**](https://github.com/jkwiecien/EasyImage)
+
+---
+
+[**GiphyImageResultsPreview**](https://github.com/myinnos/GiphyImageResultsPreview)
+
+<img src="https://github.com/myinnos/GiphyImageResultsPreview/raw/master/gif/GiphyImageResultsPreview.gif" width="320" />
+
+---
+
+[**GifLoader**](https://github.com/adhishlal/GifLoader)
+
+<img src="https://raw.githubusercontent.com/adhishlal/GifLoader/master/adhishlal.png" width="640" />
+
+---
+
+[**GifView**](https://github.com/Cutta/GifView)
+
+<img src="https://camo.githubusercontent.com/19b4e43298746358948ac05ce184fa4d99029159/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3236745073594c356841344945474166752f67697068792e676966" width="320" />
+
+---
+
+[**PhotoEditDemo**](https://github.com/jarlen/PhotoEditDemo)
+
+---
+
