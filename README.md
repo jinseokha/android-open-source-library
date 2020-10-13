@@ -26,7 +26,7 @@ PR 및 Star 환영합니다.
 - [Layout](pages/Layout.md)
 - [Label](pages/Label.md)
 - [Menu](pages/Menu.md) (완)
-- [Network](pages/Network.md)
+- [Network](pages/Network.md) (완)
 - :fire:[Project](pages/Project.md)
 - [Progressbar](pages/Progressbar.md) (완)
 - [Picker](pages/Picker.md) (완)
