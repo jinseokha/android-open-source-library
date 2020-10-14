@@ -16,7 +16,7 @@ PR 및 Star 환영합니다.
 - [Dialog](pages/Dialog.md) (완)
 - [Effect](pages/Effect.md) (완)
 - [Framework](pages/Framework.md) (완)
-- [Gradle](pages/Gradle.md)
+- [Gradle](pages/Gradle.md) (완)
 - [Image](pages/Image.md) (완)
 - [Icon](pages/Icon.md) (완)
 - [Interview](pages/Interview.md)
