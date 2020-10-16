@@ -602,3 +602,264 @@
 
 ---
 
+[**MarkedView-for-Android**](https://github.com/mittsuu/MarkedView-for-Android)
+
+<img src="https://raw.githubusercontent.com/mittsuu/MarkedView-for-Android/master/sample-sc.gif" width="320" />
+
+---
+
+[**SlickForm**](https://github.com/AlburIvan/SlickForm)
+
+<img src="https://raw.githubusercontent.com/AlburIvan/SlickForm/master/slick_form_demo.gif" width="320" />
+
+---
+
+[**WhatsappFormatter**](https://github.com/cooltechworks/WhatsappFormatter)
+
+<img src="https://raw.githubusercontent.com/cooltechworks/WhatsappFormatter/master/screenshot/whatsappformattingdemo.gif" width="320" />
+
+---
+
+[**KeyboardNumber**](https://github.com/policante/KeyboardNumber)
+
+<img src="https://raw.githubusercontent.com/policante/KeyboardNumber/master/resource/dialog1.png" width="320" /> <img src="https://raw.githubusercontent.com/policante/KeyboardNumber/master/resource/dialog4.png" width="320" />
+
+---
+
+[**NumberKeyboard**](https://github.com/wangshaolei/NumberKeyboard)
+
+<img src="https://raw.githubusercontent.com/wangshaolei/NumberKeyboard/master/img/1.png" width="320" />
+
+---
+
+[**AdvancedTextSwitcher**](https://github.com/SumiMakito/AdvancedTextSwitcher)
+
+<img src="https://raw.githubusercontent.com/SumiMakito/AdvancedTextSwitcher/master/art/snapshot.gif" width="480" />
+
+---
+
+[**MarkupAndroid**](https://github.com/shree-vastava/MarkupAndroid)
+
+---
+
+[**codeview-android**](https://github.com/Softwee/codeview-android)
+
+<img src="https://camo.githubusercontent.com/b4924dc4d61df4ae4716aa65bff1329bd170f4d5/68747470733a2f2f7331302e706f7374696d672e6f72672f636b7a7639786d6d312f436f64655f566965775f416e64726f69645f53637265656e73686f742e706e67" width="320" />
+
+---
+
+[**Codeview**](https://github.com/tiagohm/CodeView)
+
+<img src="https://raw.githubusercontent.com/tiagohm/CodeView/master/1.png" width="320" /> <img src="https://raw.githubusercontent.com/tiagohm/CodeView/master/3.png" width="320" />
+
+---
+
+[**Codeview**](https://github.com/avraampiperidis/Codeview)
+
+<img src="https://raw.githubusercontent.com/avraampiperidis/Codeview/master/readmepics/pic2.png" width="320" /> <img src="https://raw.githubusercontent.com/avraampiperidis/Codeview/master/readmepics/pic3.png" width="320" />
+
+---
+
+[**highlightjs-android**](https://github.com/PDDStudio/highlightjs-android)
+
+<img src="https://raw.githubusercontent.com/PDDStudio/highlightjs-android/master/gfx/demo.png" width="800" />
+
+---
+
+[**SyntaxView**](https://github.com/fiskurgit/SyntaxView)
+
+<img src="https://raw.githubusercontent.com/fiskurgit/SyntaxView/master/screenshot.png" width="800" />
+
+---
+
+[**ChipCloud**](https://github.com/fiskurgit/ChipCloud)
+
+<img src="https://raw.githubusercontent.com/fiskurgit/ChipCloud/master/images/trainer_sizes.png" width="800" />
+
+---
+
+[**Hash-Tags-Android**](https://github.com/rameshvoltella/Hash-Tags-Android)
+
+<img src="https://raw.githubusercontent.com/rameshvoltella/Hash-Tags-Android/master/Screenshot_2014-07-23-20-41-05.png" width="270" /> <img src="https://raw.githubusercontent.com/rameshvoltella/Hash-Tags-Android/master/Screenshot_2014-07-23-20-41-27.png" width="270" /> <img src="https://raw.githubusercontent.com/rameshvoltella/Hash-Tags-Android/master/Screenshot_2014-07-23-23-06-04.png" width="270" />
+
+---
+
+[**Lettrine**](https://github.com/rpradal/Lettrine)
+
+| <img style="float: center;" src="http://i.imgur.com/ivgH1gZ.jpg" width="400">  | <img style="float: right;" src="http://i.imgur.com/hHVzvXR.jpg" width="400">  | <img style="float: right;" src="http://i.imgur.com/6RL4AeR.jpg" width="400">  | <img style="float: right;" src="http://i.imgur.com/3MsIm3t.jpg" width="400">  | <img style="float: right;" src="http://i.imgur.com/VuaW6pA.jpg" width="400">  |
+|:-------:|:------:|:------:|:------:|:------:|
+| Lettrine with a three lines height | Lettrine with a two lines height | Font customization | Html balisis inclusion | Custom text color |
+
+---
+
+[**wATL**](https://github.com/suwhs/wATL)
+
+<img src="https://camo.githubusercontent.com/94927da9d104e30f2d55260b22b256ce7f2f5ab0/687474703a2f2f696d672e796f75747562652e636f6d2f76692f756933484c6b454b3954302f302e6a7067" width="480" />
+
+---
+
+[**PinEntryEditText**](https://github.com/alphamu/PinEntryEditText)
+
+<img src="https://camo.githubusercontent.com/7a8eedea25a992c1a0192eb179ad4feeeebf57fa/687474703a2f2f692e67697068792e636f6d2f336f3771445641705354466c3844435534452e676966" width="240" />
+
+---
+
+[**AnimatedEditText**](https://github.com/alphamu/AnimatedEditText)
+
+<img src="https://camo.githubusercontent.com/004e3593da1a874dab3c0e9ea95c01217b7dad06/687474703a2f2f692e67697068792e636f6d2f783141735a4a79705436726d772e676966" width="210" />
+
+---
+
+[**android-ago**](https://github.com/curioustechizen/android-ago)
+
+<img src="https://raw.githubusercontent.com/curioustechizen/android-ago/master/screenshots/android-ago-sample-screenshot.png" width="270" />
+
+---
+
+[**countingtextview**](https://github.com/uguratar/countingtextview)
+
+<img src="https://camo.githubusercontent.com/30a57e0df2f29e4b3dd8172dff5bbdbee877eefc/687474703a2f2f692e696d6775722e636f6d2f6e6f58774b47372e676966" width="270" />
+
+---
+
+[**BubbleView**](https://github.com/cpiz/BubbleView)
+
+<img src="https://raw.githubusercontent.com/cpiz/BubbleLayout/master/screenshots/2.png" width="400" /> <img src="https://raw.githubusercontent.com/cpiz/BubbleLayout/master/screenshots/3.png" width="400" />
+
+---
+
+[**KerningViews**](https://github.com/aritraroy/KerningViews)
+
+<img src="https://raw.githubusercontent.com/aritraroy/KerningViews/master/images/screenshot.png" width="270" />
+
+---
+
+[**JumpingBeans**](https://github.com/frakbot/JumpingBeans)
+
+<img src="https://github.com/frakbot/JumpingBeans/blob/master/art/jumpingdots.gif" width="320" />
+<img src="https://github.com/frakbot/JumpingBeans/blob/master/art/jumpingword.gif" width="320" />
+
+---
+
+[**RotatingText**](https://github.com/sdsmdg/RotatingText)
+
+<img src="https://github.com/sdsmdg/RotatingText/raw/master/screens/gif_example_3.gif" width="400" />
+
+---
+
+[**MarqueeViewLibrary**](https://github.com/gongwen/MarqueeViewLibrary)
+
+<img src="https://raw.githubusercontent.com/gongwen/MarqueeViewLibrary/master/screenshot/screen_shot.gif" width="300" />
+
+---
+
+[**MarqueeViewDemo**](https://github.com/gongwen/MarqueeViewDemo)
+
+<img src="https://raw.githubusercontent.com/gongwen/MarqueeViewDemo/master/screenshot/screen_shot.gif" width="300" />
+
+---
+
+[**noticeview**](https://github.com/czy1121/noticeview)
+
+<img src="https://raw.githubusercontent.com/czy1121/noticeview/master/screenshot.png" width="320" />
+
+---
+
+[**MarqueeView**](https://github.com/sfsheng0322/MarqueeView)
+
+<img src="https://raw.githubusercontent.com/sfsheng0322/MarqueeView/master/screenshot/MarqueeView_Gif.gif" width="320" />
+
+---
+
+[**Android-Lib-VerticalMarqueeTextView**](https://github.com/ayltai/Android-Lib-VerticalMarqueeTextView)
+
+<img src="https://raw.github.com/ayltai/Android-Lib-VerticalMarqueeTextView/master/screenshots/device-2014-02-22-000150.png" width="270" height="400" alt="Screenshot-1" />&nbsp;
+<img src="https://raw.github.com/ayltai/Android-Lib-VerticalMarqueeTextView/master/screenshots/device-2014-02-22-000158.png" width="270" height="400" alt="Screenshot-2" />&nbsp;
+<img src="https://raw.github.com/ayltai/Android-Lib-VerticalMarqueeTextView/master/screenshots/device-2014-02-22-000208.png" width="270" height="400" alt="Screenshot-3" />
+
+---
+
+[**mask-edittext**](https://github.com/santalu/mask-edittext)
+
+<img src="https://github.com/santalu/mask-edittext/raw/master/screens/sample.png" width="320" />
+
+---
+
+[**input-mask-android**](https://github.com/RedMadRobot/input-mask-android)
+
+<img src="https://raw.githubusercontent.com/RedMadRobot/input-mask-android/assets/assets/gif-animations/direct-input.gif" width="320" />
+
+---
+
+[**MaskedEditText**](https://github.com/VicMikhailau/MaskedEditText)
+
+<img src="https://raw.githubusercontent.com/VicMikhailau/MaskedEditText/master/resources/masked_edit_text.gif" width="320" />
+
+---
+
+[**android-edittextpassword**](https://github.com/pucamafra/android-edittextpassword)
+
+<img src="https://raw.githubusercontent.com/pucamafra/android-edittextpassword/master/screenshots/sample.png" width="320" />
+
+---
+
+[**MultiFontView-Android**](https://github.com/shashkiranr/MultiFontView-Android)
+
+<img src="https://github.com/shashkiranr/MultiFontView-Android/raw/master/Screenshot.png?raw=true" width="320" />
+
+---
+
+[**CustomFontView**](https://github.com/anitaa1990/CustomFontView)
+
+<img src="https://user-images.githubusercontent.com/22608780/29374593-9d9f71d4-82cf-11e7-915d-dcead8093d40.png" width="320" />
+
+---
+
+[**fonttools**](https://github.com/fonttools/fonttools)
+
+---
+
+[**android-DownloadableFonts**](https://github.com/googlesamples/android-DownloadableFonts)
+
+<img src="https://github.com/googlesamples/android-DownloadableFonts/raw/master/screenshots/screenshot-1.png" width="300" />
+
+---
+
+[**Fonty**](https://github.com/MarcinOrlowski/Fonty)
+
+<img src="https://raw.githubusercontent.com/MarcinOrlowski/Fonty/master/img/shot.png" width="360" />
+
+---
+
+[**CustomTypeface**](https://github.com/TheBrownArrow/CustomTypeface)
+
+<img src="https://raw.githubusercontent.com/thebrownarrow/CustomTypeface/master/screenshot.png" width="320" />
+
+---
+
+[**FontZip**](https://github.com/forJrking/FontZip)
+
+---
+
+[**EasyFont**](https://github.com/natiginfo/EasyFont)
+
+<img src="https://github.com/natiginfo/EasyFont/blob/master/screenshots/screenshot1.png" width="270" />
+
+---
+
+[**EasyFont**](https://github.com/vishal259/EasyFont)
+
+---
+
+[**AACustomFont**](https://github.com/EngrAhsanAli/AACustomFont)
+
+<img src="https://github.com/EngrAhsanAli/AACustomFont/raw/master/Screenshots/demo.png" width="270" />
+
+---
+
+[**ontometricsLibrary**](https://github.com/Ishmeetsingh97/FontometricsLibrary)
+
+<img src="https://raw.githubusercontent.com/Ishmeetsingh97/FontometricsLibrary/master/FontometricsArtwork.jpg" width="640" />
+
+---
+
