@@ -863,3 +863,331 @@
 
 ---
 
+[**SmartFonts**](https://github.com/smart-fun/SmartFonts)
+
+<img src="https://raw.githubusercontent.com/smart-fun/SmartFonts/master/app/extras/editor_screenshot.png" width="320" />
+
+---
+
+[**AndroidFontsManager**](https://github.com/GcsSloop/AndroidFontsManager)
+
+<img src="https://github.com/GcsSloop/AndroidFontsManager/blob/master/Pic/fontsmanagerdemo.gif" width="320" />
+
+---
+
+[**font-utils**](https://github.com/mattsilber/font-utils)
+
+---
+
+[**FontBinder**](https://github.com/nitrico/FontBinder)
+
+---
+
+[**fontbinding**](https://github.com/lisawray/fontbinding)
+
+<img src="https://raw.githubusercontent.com/lisawray/fontbinding/master/screenshot_land.png" width="640" />
+
+---
+
+[**CustomFontLib**](https://github.com/daniribalbert/CustomFontLib)
+
+<img src="https://raw.githubusercontent.com/daniribalbert/CustomFontLib/master/website/static/screenshot.png" width="320" />
+
+---
+
+[**Calligraphy**](https://github.com/chrisjenx/Calligraphy)
+
+<img src="https://raw.githubusercontent.com/chrisjenx/Calligraphy/master/screenshot.png" width="320" />
+
+---
+
+[**HRichEditor**](https://github.com/huangdali/HRichEditor)
+
+<img src="https://github.com/huangdali/HRichEditor/raw/master/images/changitem.gif" width="320" />
+
+---
+
+[**ScrollNumber**](https://github.com/a-voyager/ScrollNumber)
+
+<img src="https://raw.githubusercontent.com/a-voyager/ScrollNumber/master/imgs/01.gif" width="320" />
+
+---
+
+[**NumberMorphView**](https://github.com/me-abhinav/NumberMorphView)
+
+<img src="https://raw.githubusercontent.com/me-abhinav/NumberMorphView/dev/sample.gif" width="320" />
+
+---
+
+[**NumberMorphView4Android**](https://github.com/Even201314/NumberMorphView4Android)
+
+<img src="https://raw.githubusercontent.com/Even201314/NumberMorphView4Android/master/raw/master/screenshot/sample.gif" width="320" />
+
+---
+
+[**advancedtextview**](https://github.com/oktayayr/advancedtextview)
+
+<img src="https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/justifytext_ss.png" width="320" /> <img src="https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/autofit_ss.png" width="480" />
+
+![Aller](https://raw.githubusercontent.com/oktayayr/advancedtextview/master//arts/aller.png)
+
+![Bebas](https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/bebas.png)
+
+![Capture It](https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/capture.png)
+
+![Caviar Dreams](https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/caviar_dreams.png)
+
+![Droid Sans](https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/droid_sans.png)
+
+![Journal](https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/journal.png)
+
+![Open Sans](https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/open_sans.png)
+
+![Pacifico](https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/pacifico.png)
+
+![Roboto](https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/roboto.png)
+
+---
+
+[**icarus-android**](https://github.com/mr5/icarus-android)
+
+<img src="https://raw.githubusercontent.com/mr5/icarus-android/master/demo.gif" width="240" />
+
+---
+
+[**ImageTextView**](https://github.com/vipinagrahari/ImageTextView)
+
+<img src="https://raw.githubusercontent.com/vipinagrahari/ImageTextView/master/screenshots/screen1.png" width="320" />
+
+---
+
+[**ColorPhrase**](https://github.com/THEONE10211024/ColorPhrase)
+
+<img src="https://github.com/THEONE10211024/ColorPhrase/blob/master/screenshot/Screenshot_2015-05-16-18-12-23.jpeg" width="320" />
+
+---
+
+[**CallMeMaybe**](https://github.com/MichaelRocks/CallMeMaybe)
+
+<img src="https://raw.githubusercontent.com/MichaelRocks/CallMeMaybe/master/callmemaybe.gif" width="320" />
+
+---
+
+[**android-phone-field**](https://github.com/lamudi-gmbh/android-phone-field)
+
+<img src="https://raw.githubusercontent.com/lamudi-gmbh/android-phone-field/master/raw/phone-field.gif" width="320" />
+
+---
+
+[**justified**](https://github.com/programingjd/justified)
+
+<img src="https://github.com/programingjd/justified/blob/master/screenshot.jpg" width="320" />
+
+---
+
+[**EditTag**](https://github.com/qiugang/EditTag)
+
+<img src="https://raw.githubusercontent.com/qiugang/EditTag/master/screenshots/s01.jpg" width="320" />
+
+---
+
+[**TagsEditText**](https://github.com/mabbas007/TagsEditText)
+
+<img src="https://camo.githubusercontent.com/3a26ca3308d07d4040d9b6bea3dd65b0cc605516/687474703a2f2f692e696d6775722e636f6d2f5a4a596c734e4c2e706e673f33" width="320" />
+
+---
+
+[**Spanny**](https://github.com/binaryfork/Spanny)
+
+<img src="https://camo.githubusercontent.com/16b6d49cf7481709a8bb43803489e6f43e26c1ac/687474703a2f2f692e696d6775722e636f6d2f4e506e6c3079792e706e673f31" width="320" />
+
+---
+
+[**LicenseTextView**](https://github.com/jgabrielfreitas/LicenseTextView)
+
+<img src="https://raw.githubusercontent.com/jgabrielfreitas/LicenseTextView/master/img/license_print.jpg" width="320" />
+
+---
+
+[**Shimmer-android**](https://github.com/RomainPiel/Shimmer-android)
+
+<img src="https://raw.githubusercontent.com/RomainPiel/Shimmer-android/master/shimmer.gif" width="480" />
+
+---
+
+[**shimmer-android**](https://github.com/facebook/shimmer-android)
+
+<img src="https://github.com/facebook/shimmer-android/blob/master/shimmer.gif?raw=true" width="480" />
+
+---
+
+[**MaterialEditText**](https://github.com/rengwuxian/MaterialEditText)
+
+<img src="https://github.com/rengwuxian/MaterialEditText/blob/master/images/material_edittext.png" width="320" />
+
+---
+
+[**Titanic**](https://github.com/RomainPiel/Titanic)
+
+<img src="https://github.com/RomainPiel/Titanic/blob/master/titanic.gif" width="320" />
+
+---
+
+[**easyfonts**](https://github.com/vsvankhede/easyfonts)
+
+<img src="https://github.com/vsvankhede/easyfonts/blob/master/images/fontface_list.png" width="270" />
+<img src="https://github.com/vsvankhede/easyfonts/blob/master/images/banner.png" width="480" />
+
+---
+
+[**MatchView**](https://github.com/Rogero0o/MatchView)
+
+<img src="https://camo.githubusercontent.com/a71e9d26a7f90ea70270b3681d99785a29f83be5/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f6136393561636465677731656d79746e6b347334356732306567306d6b3439302e676966" width="320" />
+
+---
+
+[**android-autofittextview**](https://github.com/grantland/android-autofittextview)
+
+<img src="https://github.com/grantland/android-autofittextview/blob/master/website/static/autofittextview.gif?raw=true" width="480" />
+
+---
+
+[**SecretTextView**](https://github.com/matthewrkula/SecretTextView)
+
+<img src="https://camo.githubusercontent.com/bbb38412d3ae652f565556711e7aa6db67ebb4c7/68747470733a2f2f692e696d67666c69702e636f6d2f39356d39312e676966" width="200" />
+
+---
+
+[**TextJustify-Android**](https://github.com/bluejamesbond/TextJustify-Android)
+
+<img src="https://camo.githubusercontent.com/061a4a460340c26422b2a2f43d7fe39e73246297/687474703a2f2f692e696d6775722e636f6d2f6b3662415764302e6a7067" width="480" />
+
+---
+
+[**RoundedLetterView**](https://github.com/pavlospt/RoundedLetterView)
+
+<img src="https://github.com/pavlospt/RoundedLetterView/blob/master/Screenshots/device-2014-11-13-191000.png" width="320" />
+
+---
+
+[**TextDrawable**](https://github.com/amulyakhare/TextDrawable)
+
+<img src="https://github.com/amulyakhare/TextDrawable/blob/master/screens/screen1-material.png" width="320" /> <img src="https://github.com/amulyakhare/TextDrawable/blob/master/screens/screen2-material.png" width="320" />
+
+---
+
+[**BabushkaText**](https://github.com/quiqueqs/BabushkaText)
+
+<img src="https://github.com/quiqueqs/BabushkaText/blob/master/images/example.png" width="320" />
+
+---
+
+[**material-code-input**](https://github.com/glomadrian/material-code-input)
+
+<img src="https://github.com/glomadrian/material-code-input/blob/master/art/codeInput1.gif" width="320" /> <img src="https://github.com/glomadrian/material-code-input/blob/master/art/codeInput2.gif" width="240" />
+
+---
+
+[**TextViewExpandableAnimation**](https://github.com/freecats/TextViewExpandableAnimation)
+
+<img src="https://raw.githubusercontent.com/freecats/TextViewExpandableAnimation/master/preview.gif" width="144" />
+
+---
+
+[**ExpandableTextView**](https://github.com/Manabu-GT/ExpandableTextView)
+
+<img src="https://github.com/Manabu-GT/ExpandableTextView/blob/master/art/readme_demo.gif?raw=true" width="320" />
+
+---
+
+[**KMPAutoCompleteTextView**](https://github.com/andyxialm/KMPAutoCompleteTextView)
+
+<img src="https://raw.githubusercontent.com/andyxialm/KMPAutoCompleteTextView/master/art/Screenshot_sample.png" width="320" />
+
+---
+
+[**AutoCompleteBubbleText**](https://github.com/FrederickRider/AutoCompleteBubbleText)
+
+<img src="https://github.com/FrederickRider/AutoCompleteBubbleText/blob/master/images/Screenshot_1.png" width="320" />
+
+---
+
+[**floatlabelededittext**](https://github.com/wrapp/floatlabelededittext)
+
+<img src="https://camo.githubusercontent.com/9b15f9bfcdacc9bf053fff9d06e7a91a0d1b5070/687474703a2f2f692e696d6775722e636f6d2f75635264316a6d2e676966" width="320" />
+
+---
+
+[**SizeAdjustingTextView**](https://github.com/erchenger/SizeAdjustingTextView)
+
+---
+
+[**ReadMoreTextView**](https://github.com/borjabravo10/ReadMoreTextView)
+
+<img src="https://github.com/borjabravo10/ReadMoreTextView/blob/master/screenshots/expanded.png" width="320" /> <img src="https://github.com/borjabravo10/ReadMoreTextView/blob/master/screenshots/collapsed.png" width="320" />
+
+---
+
+[**ParkedTextView**](https://github.com/gotokatsuya/ParkedTextView)
+
+<img src="https://github.com/gotokatsuya/ParkedTextView/blob/master/doc/demo-gif.gif" width="320" />
+
+---
+
+[**AnimTextView**](https://github.com/z56402344/AnimTextView)
+
+<img src="https://camo.githubusercontent.com/928419dd3d300081d975c51b2a6ad293b9624ab7/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531323134323233363431303631" width="320" />
+
+---
+
+[**HTextView**](https://github.com/hanks-zyh/HTextView)
+
+![demo](https://github.com/hanks-zyh/HTextView/blob/master/screenshot/demo5.gif)
+
+---
+
+[**showhidepasswordedittext**](https://github.com/scottyab/showhidepasswordedittext)
+
+<img src="https://github.com/scottyab/showhidepasswordedittext/blob/master/docs/sample_screen_shot.png" width="320" />
+
+---
+
+[**EasyCountDownTextureView**](https://github.com/CaMnter/EasyCountDownTextureView)
+
+![TextureView](https://raw.githubusercontent.com/CaMnter/EasyCountDownTextureView/master/screenshot/textureview_1.gif)
+
+---
+
+[**TextSurface**](https://github.com/elevenetc/TextSurface)
+
+<img src="https://github.com/elevenetc/TextSurface/blob/master/docs/demo.gif" width="480" />
+
+---
+
+[**RichTextView**](https://github.com/androidessence/RichTextView)
+
+<img src="https://camo.githubusercontent.com/60fbf17a28013bcb7e5c1b925a5c2713e74a44e5/687474703a2f2f692e696d6775722e636f6d2f6d6e666b4d62772e706e67" width="320" />
+
+---
+
+[**EmailAutoCompleteTextView**](https://github.com/tasomaniac/EmailAutoCompleteTextView)
+
+<img src="https://github.com/tasomaniac/EmailAutoCompleteTextView/blob/master/demo.gif" width="320" />
+
+---
+
+[**android-pdfview**](https://github.com/JoanZapata/android-pdfview)
+
+<img src="https://camo.githubusercontent.com/7712406b4e86c0260f6fd35ed4a1fb77a73a29ce/68747470733a2f2f7261772e6769746875622e636f6d2f4a6f616e5a61706174612f616e64726f69642d706466766965772f6d61737465722f6465766963652e706e67" width="320" />
+
+---
+
+[**AndroidPdfViewer**](https://github.com/barteksc/AndroidPdfViewer)
+
+---
+
+[**PdfViewPager**](https://github.com/voghDev/PdfViewPager)
+
+<img src="https://raw.githubusercontent.com/voghDev/PdfViewPager/master/screenshots/local.gif" width="270" /> <img src="https://raw.githubusercontent.com/voghDev/PdfViewPager/master/screenshots/remote.gif" width="270" /> <img src="https://raw.githubusercontent.com/voghDev/PdfViewPager/master/screenshots/zooming.gif" width="270" />
+
+---
