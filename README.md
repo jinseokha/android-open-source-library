@@ -24,7 +24,7 @@ PR 및 Star 환영합니다.
 - :fire:[Kotlin](pages/Kotlin.md)
 - [List](pages/List.md) (완)
 - [Layout](pages/Layout.md)
-- [Label](pages/Label.md)
+- [Label](pages/Label.md) (완)
 - [Menu](pages/Menu.md) (완)
 - [Network](pages/Network.md) (완)
 - :fire:[Project](pages/Project.md)
