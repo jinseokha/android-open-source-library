@@ -2,8 +2,6 @@
 
 편의를 위해 Android open-source library 정리한 repository 입니다. 
 
-PR 및 Star 환영합니다.
-
 ### Category
 
 (a - z order)
@@ -35,20 +33,6 @@ PR 및 Star 환영합니다.
 
 Animation
 ======================
-
-[**ENViews**](https://github.com/codeestX/ENViews)
-
-| Original design | Android demo | Class |
-| :--: | :--: | :--: |
-| ![](http://odck16ake.bkt.clouddn.com/Github/o_download.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/download.gif) |ENDownloadView|
-| ![](http://odck16ake.bkt.clouddn.com/Github/o_volume.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/volume.gif)|ENVolumeView|
-| ![](http://odck16ake.bkt.clouddn.com/Github/o_loading.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/loading.gif)  | ENLoadingView |
-| ![](http://odck16ake.bkt.clouddn.com/Github/o_play.gif)| ![](http://odck16ake.bkt.clouddn.com/Github/play.gif) | ENPlayView |
-| ![](http://odck16ake.bkt.clouddn.com/Github/o_search.gif)| ![](http://odck16ake.bkt.clouddn.com/Github/search.gif) |ENSearchView
-|![](http://odck16ake.bkt.clouddn.com/Github/o_scroll.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/scroll.gif)  |ENScrollView
-|![](http://odck16ake.bkt.clouddn.com/Github/o_refresh.gif)  | ![](http://odck16ake.bkt.clouddn.com/Github/refresh.gif)  |ENRefreshView|
-
----
 
 [**SVGAPlayer-Android**](https://github.com/yyued/SVGAPlayer-Android)
 
