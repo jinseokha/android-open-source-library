@@ -1,6 +1,6 @@
 # android-open-source-library
 
-편의를 위해 Android open-source library 정리한 repository 입니다. 
+Android Open Source Library 
 
 ### Category
 
